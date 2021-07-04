@@ -1,6 +1,6 @@
 {
-  "value": "patch1",
   "patch": 2,
+  "value": "patch1",
   "array": [1,2,3,4],
   "null": null
 }
