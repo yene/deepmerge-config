@@ -1,0 +1,19 @@
+{
+  "name": "deepmerge-yw",
+  "version": "1.0.0",
+  "description": "Examples and test for deep merging objects, used for configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "dependencies": {
+    "@types/node": "^16.0.0",
+    "deepmerge": "^4.2.2"
+  }
+}
